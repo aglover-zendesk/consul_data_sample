@@ -1,0 +1,55 @@
+{
+  "cache": [
+    {
+      "host": "some.fake.cache.uri"
+    }, 
+    {
+      "tags": [
+        "val1", 
+        "val2"
+      ]
+    }, 
+    {
+      "it": "updates", 
+      "in": "real-time"
+    }, 
+    {
+      "user": "cache_user"
+    }, 
+    {
+      "password": "super_secret_d00d"
+    }
+  ], 
+  "db": "some.fake.url:port", 
+  "log-level": "SUPER_DEBUG", 
+  "extreme": [
+    {
+      "nesting": [
+        {
+          "edge": [
+            {
+              "cases": [
+                {
+                  "should": [
+                    {
+                      "be": [
+                        {
+                          "thoroughly": [
+                            "tested", 
+                            "validated", 
+                            "documented", 
+                            "researched"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
