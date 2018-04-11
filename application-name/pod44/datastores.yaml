@@ -1,0 +1,40 @@
+extreme:
+  - nesting:
+    - edge:
+      - cases:
+        - should:
+          - be:
+            - thoroughly:
+              - tested
+              - validated
+              - documented
+              - researched
+second-extreme:
+  - nesting:
+    - edge:
+      - WHOA: did I trip you up?
+      - cases:
+        - should:
+          - be:
+            - thoroughly:
+              - tested
+              - validated
+              - documented
+              - researched
+third-extreme:
+  - how about a raw string value?
+  - how:
+    - about
+  - some
+  - other:
+    - [crazy, yaml, structure]
+  - nesting:
+    - edge:
+      - cases:
+        - should:
+          - be:
+            - thoroughly:
+              - tested
+              - validated
+              - documented
+              - researched
