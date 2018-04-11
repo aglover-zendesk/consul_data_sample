@@ -1,0 +1,13 @@
+{
+  "cache": {
+    "host": {
+      "key": "value"
+    }, 
+    "port": 4406, 
+    "user": {
+      "read-write": "user_rw", 
+      "read-only": "user_ro"
+    }
+  }, 
+  "db": "some.fake.url:port"
+}
